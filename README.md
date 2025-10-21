@@ -1,5 +1,5 @@
 My Calculator is a fully responsive, modern calculator built using HTML, CSS, and JavaScript.
-It performs all basic arithmetic operations with a clean and user-friendly interface.
+It performs all basic arithmetic operations with a clean and user friendly interface.
 The project focuses on simplicity, accuracy, and smooth interaction, designed for both desktop and mobile devices.
 
 Technologies Used:
